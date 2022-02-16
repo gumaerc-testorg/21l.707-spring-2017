@@ -3,8 +3,12 @@ content_type: resource
 description: "Example of student work comparing recipes from a pair of cookbooks,\
   \ Robert May\u2019s The Accomplisht Cook and Hannah Glasse\u2019s The Art of Cookery\
   \ Made Plain & Easy."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-707-reading-cookbooks-from-the-forme-of-cury-to-the-smitten-kitchen-spring-2017/01bdbf5ebb2415592fa07242fec1458c_MIT21L_707S17_Third_Essay.pdf
+file: /media/courses/21l-707-reading-cookbooks-from-the-forme-of-cury-to-the-smitten-kitchen-spring-2017/01bdbf5ebb2415592fa07242fec1458c_MIT21L_707S17_Third_Essay.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Essays
+parent_type: CourseSection
 resourcetype: Document
 title: The Different Worlds of Robert May and Hannah Glasse
 uid: 01bdbf5e-bb24-1559-2fa0-7242fec1458c

@@ -2,8 +2,12 @@
 content_type: resource
 description: "Example of student work reviewing a cookbook, The Forest Feast by Erin\
   \ Gleeson.\r\n\r\n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-707-reading-cookbooks-from-the-forme-of-cury-to-the-smitten-kitchen-spring-2017/a204d76deb924f1d3ce74c48c404c6a1_MIT21L_707S17_First_Essay.pdf
+file: /media/courses/21l-707-reading-cookbooks-from-the-forme-of-cury-to-the-smitten-kitchen-spring-2017/a204d76deb924f1d3ce74c48c404c6a1_MIT21L_707S17_First_Essay.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Essays
+parent_type: CourseSection
 resourcetype: Document
 title: 'Essay #1'
 uid: a204d76d-eb92-4f1d-3ce7-4c48c404c6a1

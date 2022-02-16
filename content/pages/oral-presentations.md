@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Oral Presentations
 uid: f5a29c58-6ce5-88d4-d926-0aa9c89ded56
 ---
