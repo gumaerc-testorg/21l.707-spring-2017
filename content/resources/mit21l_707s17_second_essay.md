@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Essays
 parent_type: CourseSection
+parent_uid: 36d1e29c-04df-a0a3-2ca0-2cdacd1bf44b
 resourcetype: Document
 title: The Forme of Cury
 uid: c647054b-1449-8efc-2304-d14ce77ee0dd

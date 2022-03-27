@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Essays
 parent_type: CourseSection
+parent_uid: 36d1e29c-04df-a0a3-2ca0-2cdacd1bf44b
 resourcetype: Document
 title: The Evolution of Carrot Cake
 uid: eb30d287-e9e5-47b0-4f8b-a98572d461f3

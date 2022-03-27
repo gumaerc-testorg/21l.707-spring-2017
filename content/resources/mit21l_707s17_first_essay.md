@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Essays
 parent_type: CourseSection
+parent_uid: 36d1e29c-04df-a0a3-2ca0-2cdacd1bf44b
 resourcetype: Document
 title: 'Essay #1'
 uid: a204d76d-eb92-4f1d-3ce7-4c48c404c6a1
