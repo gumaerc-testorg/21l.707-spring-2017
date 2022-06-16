@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the oral presentations assigned for
+  the course and an example of student work.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Oral Presentations
@@ -37,4 +39,4 @@ _Oral Presentation Schedule & Topics_
 *   Session 21: Nigella Lawson, _How to Eat_
 *   Session 22: Hugh Fearnley-Whittingstall, _The River Cottage Cookbook_
 
-Example student work - [Good Things in England (PDF)]({{< baseurl >}}/resources/mit21l_707s17_outline_florence_white) (Provided by Harini Suresh and used with permission.)
+Example student work - {{% resource_link 82c21460-c520-1369-e2a3-69e4074eff29 "Good Things in England (PDF)" %}} (Provided by Harini Suresh and used with permission.)
