@@ -4,6 +4,7 @@ description: "Example of student work comparing recipes from a pair of cookbooks
   \ Robert May\u2019s The Accomplisht Cook and Hannah Glasse\u2019s The Art of Cookery\
   \ Made Plain & Easy."
 file: /courses/21l-707-reading-cookbooks-from-the-forme-of-cury-to-the-smitten-kitchen-spring-2017/01bdbf5ebb2415592fa07242fec1458c_MIT21L_707S17_Third_Essay.pdf
+file_size: 655152
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
