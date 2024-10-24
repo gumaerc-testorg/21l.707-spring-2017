@@ -2,7 +2,7 @@
 content_type: resource
 description: Notes accompanying an oral presentation by a student on a cookbook studied
   in the course.
-file: /courses/21l-707-reading-cookbooks-from-the-forme-of-cury-to-the-smitten-kitchen-spring-2017/82c21460c5201369e2a369e4074eff29_MIT21L_707S17_Outline_Florence_White.pdf
+file: /ol-ocw-studio-app/courses/21l-707-reading-cookbooks-from-the-forme-of-cury-to-the-smitten-kitchen-spring-2017/82c21460c5201369e2a369e4074eff29_MIT21L_707S17_Outline_Florence_White.pdf
 file_size: 534254
 file_type: application/pdf
 learning_resource_types: []
