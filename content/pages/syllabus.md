@@ -30,29 +30,29 @@ Iron chefs and home cooks; molecular gastronomy and farm-to-table dining; grain-
 
 Obviously, we can’t read all the following cookbooks cover to cover, so we’ll be focusing, rather, on selected chapters and recipes. All the books, except for the 20th-21st century ones, are available online, in reprints, and/or in free ebook editions.
 
-Pegge, Samuel. *The Forme of Cury: A Roll of Ancient English Cookery Compiled, about A.D. 1390*. CreateSpace Independent Publishing Platform, 2012. ISBN: 9781470074852. \[Preview with [Google Books](https://books.google.com/books?id=S1VEBQAAQBAJ&lpg=PP1&dq=the%20forme%20of%20cury&pg=PP1#v=onepage&q&f=false)\]
+Pegge, Samuel. *The Forme of Cury: A Roll of Ancient English Cookery Compiled, about A.D. 1390*. CreateSpace Independent Publishing Platform, 2012. ISBN: 9781470074852. \[Preview with {{% resource_link "29e877d2-7b27-42c9-ab0c-3ea7b87df3a6" "Google Books" %}}\]
 
 Plat, Hugh. *Delightes for Ladies to Adorn their Persons, Tables, Closets, and Distillatories: with Beauties, Banquets, Perfumes and Waters*. EEBO Editions, ProQuest, 2010. ISBN: 9781171310464.
 
-Markham, Gervase. *The English Housewife*. Edited by Michael R. Best. McGill-Queen's University Press, 1994. ISBN: 9780773511033. \[Preview with [Google Books](https://books.google.com/books?id=bJ2KV5vfzqYC&lpg=PP1&dq=markham%20the%20english%20housewife&pg=PP1#v=onepage&q&f=false)\]
+Markham, Gervase. *The English Housewife*. Edited by Michael R. Best. McGill-Queen's University Press, 1994. ISBN: 9780773511033. \[Preview with {{% resource_link "db4cfa52-b0ac-4e8d-b167-82481d35a88a" "Google Books" %}}\]
 
 May, Robert. *The Accomplisht Cook: or the Art & Mystery of Cookery*. CreateSpace Independent Publishing Platform, 2015. ISBN: 9781516986583.
 
-Glasse, Hannah. *The Art of Cookery Made Plain and Easy: The Revolutionary 1805 Classic*. Reprint edition. Dover Publications, 2015. ISBN: 9780486795768. \[Preview with [Google Books](https://books.google.com/books?id=BJY58UqSEMUC&lpg=PP1&dq=hannah%20glasse%20the%20art%20of%20cookery&pg=PP1#v=onepage&q&f=false)\]
+Glasse, Hannah. *The Art of Cookery Made Plain and Easy: The Revolutionary 1805 Classic*. Reprint edition. Dover Publications, 2015. ISBN: 9780486795768. \[Preview with {{% resource_link "eb0e5734-373c-4ce1-a11e-ef0313431cc8" "Google Books" %}}\]
 
-Acton, Eliza. *Modern Cookery for Private Families*. Quadrille Publishing, 2011. ISBN: 9781844009596. \[Preview with [Google Books](https://books.google.com/books?id=kXsCAAAAYAAJ&dq=eliza%20acton%20modern%20cookery%20for%20private%20families&pg=PR3#v=onepage&q&f=false)\]
+Acton, Eliza. *Modern Cookery for Private Families*. Quadrille Publishing, 2011. ISBN: 9781844009596. \[Preview with {{% resource_link "0de1011a-a7ec-4012-b42b-748175d3b0c9" "Google Books" %}}\]
 
-Soyer, Alexis Benoît. *Charitable Cookery; or, The Poor Man's Regenerator*. Nabu Press, 2014. ISBN: 9781293760000. \[Preview with [Google Books](https://books.google.com/books?id=6DIEAAAAQAAJ&dq=alexis%20soyer%20charitable%20cookery&pg=PP7#v=onepage&q&f=false)\]
+Soyer, Alexis Benoît. *Charitable Cookery; or, The Poor Man's Regenerator*. Nabu Press, 2014. ISBN: 9781293760000. \[Preview with {{% resource_link "51f1718e-f525-47e6-bff7-ffd32c804dba" "Google Books" %}}\]
 
 Francatelli, Charles Elmé. *A Plain Cookery Book for the Working Classes*. Reprint edition. The History Press, 2011. ISBN: 9780752459059.
 
-Beeton, Isabella. *Mrs. Beeton's Book of Household Management*. Edited by Nicola Humble. Abridged edition. Oxford World's Classics, 2008. ISBN: 9780199536337. \[Preview with [Google Books](https://books.google.com/books?id=NgPhAAAAMAAJ&dq=beeton%20book%20of%20household%20management&pg=PP7#v=onepage&q&f=false)\]
+Beeton, Isabella. *Mrs. Beeton's Book of Household Management*. Edited by Nicola Humble. Abridged edition. Oxford World's Classics, 2008. ISBN: 9780199536337. \[Preview with {{% resource_link "b74e38f8-807d-4bbd-9378-352724db2f97" "Google Books" %}}\]
 
-Kenney-Herbert, Wyvern. *Culinary Jottings for Madras*. Facsimile edition. Prospect Books, 2007. ISBN: 9781903018538. \[Preview with [Google Books](https://books.google.com/books?id=9fbOhlqtvdYC&lpg=PP1&dq=wyvern%20culinary%20jottings%20for%20madras&pg=PP1#v=onepage&q&f=false)\]
+Kenney-Herbert, Wyvern. *Culinary Jottings for Madras*. Facsimile edition. Prospect Books, 2007. ISBN: 9781903018538. \[Preview with {{% resource_link "56679157-a59a-414c-bf59-4dce0747a3a2" "Google Books" %}}\]
 
 White, Florence. *Good Things in England: A Practical Cookery Book for Everyday Use*. Persephone Books Ltd., 1999. ISBN: 9781903155004.
 
-David, Elizabeth. *A Book of Mediterranean Food*. 2nd edition. New York Review Books, 2002. ISBN: 9781590170038. \[Preview with [Google Books](https://books.google.com/books?id=xWCtAAAAQBAJ&lpg=PP1&dq=elizabeth%20david%20mediterranean%20food&pg=PP1#v=onepage&q&f=false)\]
+David, Elizabeth. *A Book of Mediterranean Food*. 2nd edition. New York Review Books, 2002. ISBN: 9781590170038. \[Preview with {{% resource_link "1adc8cf0-f0de-4c62-9cb8-a7e293591454" "Google Books" %}}\]
 
 Grigson, Jane. *English Food*. 4th edition. Penguin UK, 1998. ISBN: 9780140273243.
 
@@ -62,7 +62,7 @@ Fearnley-Whittingstall, Hugh. *The River Cottage Cookbook*. Ten Speed Press, 200
 
 ## Required Secondary Sources
 
-Colquhoun, Kate. *Taste: The Story of Britain Through Its Cooking*. Bloomsbury, 2007. ISBN: 9781596914100. \[Preview with [Google Books](https://books.google.com/books?id=DL2yOIhKcgkC&lpg=PP1&dq=taste%3A%20the%20story%20of%20britain&pg=PP1#v=onepage&q&f=false)\]
+Colquhoun, Kate. *Taste: The Story of Britain Through Its Cooking*. Bloomsbury, 2007. ISBN: 9781596914100. \[Preview with {{% resource_link "e6200aa7-a53c-4d87-be8a-f21d9a253a31" "Google Books" %}}\]
 
 Essays in the Readings section
 
