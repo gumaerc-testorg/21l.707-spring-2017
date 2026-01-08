@@ -24,10 +24,10 @@ Due: Session 6
 
 Drawing upon the assigned secondary sources, consider _The Forme of Cury_ as a historical artifact. What does the collection tell us about the world that produced it? Select a recipe. Who would have prepared it? For whom? Where would the ingredients have come from? What techniques and kitchen equipment would have been needed? What knowledge does the recipe presuppose? What part of a meal would it have been included in? What is notable about the language of the recipe? What religious and/or nutritional theories does the recipe reflect? \[Tip: You’ll probably want to check out unfamiliar words in on-line glossaries of medieval cooking terms. Here are links to a few good ones:
 
-*   {{% resource_link "4aa208b9-b036-4970-b028-c99478129f04" "The Food Timeline" %}}
-*   {{% resource_link "4d6e09e8-281a-4706-b2bb-151d0b092271" "Historic Cookbooks online" %}}
-*   {{% resource_link "9ba27e48-8bbb-45ec-9d35-9f66dd3deb29" "Glossary of Medieval Cooking Terms" %}}
-*   {{% resource_link "e738af05-9b75-4ff1-97e7-40f6434ca328" "Glossary of Medieval & Renaissance Culinary Terms" %}}
+*   [The Food Timeline](http://www.foodtimeline.org/)
+*   [Historic Cookbooks online](http://www.angelfire.com/md3/openhearthcooking/aaCookbookindex.html)
+*   [Glossary of Medieval Cooking Terms](http://www.godecookery.com/glossary/glossary.htm)
+*   [Glossary of Medieval & Renaissance Culinary Terms](http://www.thousandeggs.com/glossary.html)
 
 Example student work - {{% resource_link c647054b-1449-8efc-2304-d14ce77ee0dd "_The Forme of Cury_ (PDF)" %}}
 
@@ -56,7 +56,7 @@ Due: Last session
 
 Pick a favorite dish from one of the 20th or 21st century cookbooks that we’ve studied—whether french toast, lasagna, cheesecake, roast beef, chicken pot pie, gingerbread, or anything else—and trace its evolution by finding comparable recipes through the earlier cookbooks we’ve read (you may draw upon other cookbooks as well). By now, you should be comfortable reading recipes not just for what they produce, but for what they reveal about the cultures that produced them. How, for instance, did the _Forme of Cury’s_ “Losyns” gradually evolve into what we recognize as lasagna?
 
-**Note for all essays:** When you refer to either primary or secondary sources, you must cite them in your essay using correct format (refer to the {{% resource_link "d6b8ee07-0f14-4f35-afc0-5aff9fc43e89" "MLA Handbook" %}}).
+**Note for all essays:** When you refer to either primary or secondary sources, you must cite them in your essay using correct format (refer to the [MLA Handbook](https://style.mla.org/)).
 
 Example student work - {{% resource_link eb30d287-e9e5-47b0-4f8b-a98572d461f3 "The Evolution of Carrot Cake (PDF)" %}}
 
